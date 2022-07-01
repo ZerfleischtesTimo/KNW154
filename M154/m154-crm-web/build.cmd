@@ -1,0 +1,1 @@
+docker image build --tag m154-crm-web:latest .
